@@ -84,7 +84,6 @@ This dashboard addresses three strategic risk and customer profiling questions:
 amex-default-risk/
 │
 ├── data/
-│   ├── data_source.md                  # Link and description of original Kaggle dataset
 │   └── cleaned_dataset_link.md         # External link to cleaned 100k-row CSV
 │
 ├── sql/
@@ -97,5 +96,4 @@ amex-default-risk/
 │   └── dashboard_preview.png           # Tableau dashboard preview
 │
 ├── README.md                           # Project documentation
-└── LICENSE                             # Repository license
 ```
