@@ -23,8 +23,6 @@ This dashboard addresses three strategic risk and customer profiling questions:
   - Risk trends across customer tenure and average transaction value
   - Indicators that change over time prior to default events
 
-> 🔗 [View the live dashboard on Tableau Public](https://public.tableau.com/views/AmericanExpressDefaultRiskBehavioralInsightsDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
-
 ![Dashboard Preview](images/dashboard_preview.png)
 
 ---
