@@ -49,7 +49,6 @@ This dashboard addresses three strategic risk and customer profiling questions:
 - 100,000-record sample from American Express default prediction dataset
 - ~190 anonymized behavioral and financial variables
 - Data collected across time steps for each customer ID
-- Null-heavy fields dropped (>85%) to ensure visual clarity
 
 ### 💾 SQL-Based Analysis
 - Wrote custom `CREATE TABLE` schema to structure anonymized variables
