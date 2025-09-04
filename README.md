@@ -4,7 +4,7 @@
 
 ### Identifying behavioral trends, early risk signals, and customer segmentation insights using SQL and Tableau.
 
-This project analyzes customer behavior and financial attributes to understand default risk trends in American Express data. Insights were developed using SQL, cleaned via Python, and visualized with a stakeholder-ready Tableau dashboard.
+This project analyzes customer behavior and financial attributes to understand default risk trends in American Express data. Insights were developed using SQL and visualized with a stakeholder-ready Tableau dashboard.
 
 ---
 
